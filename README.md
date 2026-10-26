@@ -26,4 +26,7 @@
 
 ## Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/vaibhav-belekar-82a123447/
+## Connect With Me
+
+* **LinkedIn:** https://www.linkedin.com/in/vaibhav-belekar-82a123447/
+* **Interests:** Web Application Security | Penetration Testing | SOC Operations
